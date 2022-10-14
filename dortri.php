@@ -3,7 +3,7 @@
 Provider Tri
 */
 echo @color("white","───────────────────────────────────────────────\n");
-echo @color("green","                 TOOLS DOR TRI                 \n");
+echo @color("green","                 TOOLS MAN UTD                 \n");
 echo @color("white","───────────────────────────────────────────────\n");
 echo @color('purple', "Masukkan Nomor Tri \t\t: ");
 $nomor = trim(fgets(STDIN));
